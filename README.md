@@ -9,7 +9,7 @@
 
 [Crispin](https://github.com/shortnamesalex/Crispin)
 
-My edited version of PhysicalSL
+["Cinematic" PhyscialSL](https://github.com/shortnamesalex/Alexs-PhysicalSL)
 
 Lemongrass (currently not hooked up yet)
 
