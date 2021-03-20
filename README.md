@@ -1,2 +1,6 @@
 # Hi. My short name is Alex. 
-(ha, get it? because.. shortnamesalex?... ok ill see myself out.)
+
+- She/her
+- Bi
+
+I don't code I just use GitHub to maintain my resource packs and do a small amount of tomfoolery.
