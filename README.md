@@ -7,7 +7,7 @@
 
 **Projects:**
 
-[Crispin [deprecated]] (https://github.com/shortnamesalex/Crispin)
+[Crispin](https://github.com/shortnamesalex/Crispin)
 
 My edited version of PhysicalSL
 
