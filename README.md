@@ -1,8 +1,7 @@
 # Hi. My short name is Alex. 
 
-- She/her
-- Bi 
-- Trans
+- She/her | They/them
+- Bi | Trans
 - Doesn't know what to do on a daily basis.
 
 **Projects:**
