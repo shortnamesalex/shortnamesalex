@@ -2,6 +2,7 @@
 
 - She/her | They/them
 - Bi | Trans
+- Plays too many games.
 - Doesn't know what to do on a daily basis.
 
 **Projects:**
