@@ -1,7 +1,5 @@
 # Hi. My short name is Alex. 
 
-- She/her | They/them
-- Bi | Trans
 - Plays too many games
 - I suck
 - Doesn't know what to do on a daily basis
